@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+  
+    <meta name="description" content="どのような内容であるかを簡潔にまとめた概要">
+      
+  </head>
+  <body>
+
+    <header>
+      <h1>hello world</h1>
+      <nav>
+        <ul>
+          <li><a href="./index.html">Home</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <article>
+      <h2>見出しレベル2</h2>
+      <p>コンテンツ内容(段落)</p>
+    </article>
+    
+  </body>
+</html>
